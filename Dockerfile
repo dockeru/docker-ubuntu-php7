@@ -10,7 +10,6 @@ RUN			apt-get update \
 				curl \
 				git \
 				libapache2-mod-php7.0 \
-				pdo-mysql \
 				php7.0 \
 				php7.0-cli \
 				php7.0-curl \
