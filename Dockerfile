@@ -18,7 +18,6 @@ RUN			apt-get update \
 				php7.0-mbstring \
 				php7.0-mcrypt \
 				php7.0-mysql \
-				php7.0-tokenizer \
 				php7.0-xml \
 
 			# Enable MCrypt
